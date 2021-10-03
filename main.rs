@@ -1,6 +1,6 @@
 fn main() {
-    for n in 1..101 {
-        println!("{}", n);
+    for n in 1..=5 {
+        println!("Set #{}", n);
     }
     
 }
